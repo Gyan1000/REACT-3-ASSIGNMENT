@@ -13,7 +13,7 @@ In this mini project, I have created an image gallery using React5 The gallery f
 - limit the results to 20 images.
 
 - Display images in a user-friendly UI 
-
+- There are two buttons for navigation
 - Upon clicking on any photo, the user is redirected to a single image view, where additional information, such as the title and description of the image, is shown.
 - Fully responsive
 - Fullscreen mode
